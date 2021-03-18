@@ -11,7 +11,7 @@
     <description>Jieba Analyzer for Elasticsearch</description>
 
     <properties>
-        <elasticsearch.version>7.4.0</elasticsearch.version>
+        <elasticsearch.version>7.11.0</elasticsearch.version>
         <maven.compiler.target>1.8</maven.compiler.target>
         <elasticsearch.assembly.descriptor>${project.basedir}/src/main/assemblies/plugin.xml</elasticsearch.assembly.descriptor>
         <elasticsearch.plugin.name>analysis-jieba</elasticsearch.plugin.name>
